@@ -2,3 +2,5 @@ bmw.txt
 audi.txt
 
 mevsimler/*
+
+!uluslar/türkiye.txt
